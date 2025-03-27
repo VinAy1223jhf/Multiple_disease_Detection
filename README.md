@@ -25,3 +25,10 @@ Results: The platform provides an immediate prediction, indicating the likelihoo
 Integrating additional diseases for a broader health assessment.
 Implementing deep learning models for improved accuracy.
 Adding more interactive features and visualizations for better user insights.
+
+![image](https://github.com/user-attachments/assets/4046a8f8-384a-4075-9b7e-5a8938338aa6)
+
+![1716531841400](https://github.com/user-attachments/assets/70ccecd0-e429-48fb-ab49-3aefc711f24b)
+
+![1716531841500](https://github.com/user-attachments/assets/e192749e-395d-4138-b1b1-59a7365ee43a)
+
