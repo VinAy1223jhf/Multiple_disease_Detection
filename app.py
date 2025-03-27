@@ -8,7 +8,7 @@ parkinson_model = pickle.load(open('parkinson_model.sav', 'rb'))
 
 # sidebar
 with st.sidebar:
-    selected = option_menu('Multiple Disease Detection System',
+    selected = option_menu('Multiplesss Disease Detection System',
                            ['Diabetes Detection', 'Heart Disease Detection', 'Parkinsons Disease Detection'],
                            menu_icon='hospital-fill',
                            icons=['activity', 'heart', 'person'],
